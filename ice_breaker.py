@@ -13,7 +13,7 @@ from output_parsers import summary_parser, Summary
 
 def ice_break(name: str, position: str="Data Analyst") -> Tuple[Summary, str]:
     # linkedin_username = linkedin_lookup_agent(name=name)
-    linkedin_data = scrape_linkedin_profile(profile_url=linkedin_username)
+    # linkedin_data = scrape_linkedin_profile(profile_url=linkedin_username)
     summary_template = """
         Given the LinkedIn information {information} about a person, I want you to create:
         1. A short summary about the person in 3 sentences.
