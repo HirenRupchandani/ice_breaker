@@ -12,6 +12,7 @@ langchain-openai = "*"
 langchainhub = "*"
 flask = "*"
 streamlit = "*"
+langchain-community = "*"
 
 [dev-packages]
 
