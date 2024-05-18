@@ -29,7 +29,7 @@ def ice_break(name: str, position: str="Data Analyst") -> Tuple[Summary, str]:
         partial_variables={"format_instructions": summary_parser.get_format_instructions()})
 
     # temperature decides how creative the model will be. 0 indicates it won't be creative
-    llm = ChatOpenAI(temperature=1, model_name='gpt-3.5-turbo-0125', openai_api_key=st.secrets["OPENAI_API_KEY"])
+    llm = ChatOpenAI(temperature=1, model_name='gpt-3.5-turbo-0125')
     # chain = LLMChain(llm=llm, prompt=summary_prompt_template)
     # LCL?
     chain = summary_prompt_template | llm | summary_parser
