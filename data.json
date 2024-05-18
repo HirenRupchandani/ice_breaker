@@ -1,0 +1,293 @@
+{
+    "public_identifier": "hiren-rupchandani",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/hiren-rupchandani/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240514%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240514T021745Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7f7bc455f0b11b4f258ea33282b1651f18e39e3bf0733a56aa0242f1fcaf84f6",
+    "background_cover_image_url": null,
+    "first_name": "Hiren",
+    "last_name": "Rupchandani",
+    "full_name": "Hiren Rupchandani",
+    "follower_count": 1538,
+    "occupation": "Associate Instructor at Indiana University Luddy School of Informatics, Computing, and Engineering",
+    "headline": "Machine Learning | Data Storytelling | Actively looking for Data Analyst or Machine Learning Engineer positions",
+    "summary": "As an Assistant Instructor at Indiana University, I teach and mentor graduate students in the Elements of Artificial Intelligence course, covering search, logic, game theory, planning, learning, computer vision, and natural language processing. I am passionate about sharing my knowledge and insights on how computers and software work, and how to apply them to solve real-world problems.\n\nPreviously, I worked as a Data Science Researcher at INSAID, leading a team of 10 researchers to improve the quality and usability of the learning tools for over 3000 customers. I also authored and published 33 articles on Medium and hosted 7 YouTube interviews on various data science and AI topics, reaching thousands of readers and viewers. I have a Bachelor of Engineering in Computer Engineering from the University of Mumbai, and I am currently pursuing a Master of Science in Computer Science at Indiana University Bloomington, with a focus on machine learning and AI. I am actively looking for full-time jobs starting in 2024, where I can apply my skills and experience to create value and impact.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Bloomington",
+    "state": "Indiana",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2024
+            },
+            "company": "Indiana University Luddy School of Informatics, Computing, and Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/iuluddy",
+            "company_facebook_profile_url": null,
+            "title": "Associate Instructor",
+            "description": "Spring 2024: \nCSCI-P 565: Software Engineering I\nINFO-I 513: Usable Artificial Intelligence",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGVE4xmb_ZnGw/company-logo_400_400/0/1630591272799?e=1723680000&v=beta&t=Na38kE4CSTXBY6O4RB5bFyXqMn_JmzM9NZW67hQ1oPg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "company": "Indiana University Luddy School of Informatics, Computing, and Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/iuluddy",
+            "company_facebook_profile_url": null,
+            "title": "Associate Instructor",
+            "description": "Fall 2023: CSCI-B 551: Elements of Artificial Intelligence",
+            "location": "On-site",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGVE4xmb_ZnGw/company-logo_400_400/0/1630591272799?e=1723680000&v=beta&t=Na38kE4CSTXBY6O4RB5bFyXqMn_JmzM9NZW67hQ1oPg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "company": "Accredian",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accredianedu",
+            "company_facebook_profile_url": null,
+            "title": "Data Science Researcher",
+            "description": "- Boosted 3000+ customers’ product usage by 30% as a result of working on more than 30 datasets to bring quality-of-life improvements to industry-pertinent learning tools at INSAID\n- Contributed to a 50% reduction in technical support queries by leading INSAID’s data science research team for a qualitative product revamp\n- Uplifted viewership of INSAID’s Medium publication by 16 times (as of April 2022) by authoring and publishing 33 articles on topics of data science and artificial intelligence like Apache Airflow, End-to-End ML Model Deployment using GCP, Kaggle Competition Guides, and PySpark\n- Amplified INSAID’s YouTube viewership by 300% by hosting and interviewing 7 globally known data science and AI practitioners live, on behalf of INSAID\n- Improvised INSAID’s Learning Management System traffic by 40% by teaching python along with its libraries like NumPy and Pandas to more than 1000 customers with a non-coding background",
+            "location": "Gurugram, Haryana, India · Remote",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQEyN33xZ31Bbw/company-logo_400_400/0/1687299738804/insaid_logo?e=1723680000&v=beta&t=DbDtvLsnkHZ1vmoXVxoMhk2h4AK0aZ9AaBixtPVwHKU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "The Sparks Foundation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-sparks-foundation",
+            "company_facebook_profile_url": null,
+            "title": "Web Development Intern",
+            "description": "- Increased secure transaction rate by 15% by improving the atomicity and integrity constraints of transactions to the institute\n- Performed a Paytm payment gateway integration into the website to diversify the methods for the donations made to the foundation",
+            "location": "Remote",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_400_400/0/1631365213896?e=1723680000&v=beta&t=IxasYjT9dMvTdAm37RsrsUY_b97cSQrDh1KBJuF99Jg"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2024
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Master of Science - MS",
+            "school": "Indiana University Bloomington",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/3325/",
+            "school_facebook_profile_url": null,
+            "description": "Coursework:\n\nCSCI-B 505: Applied Algorithms\nCSCI-B 551: Elements of Artificial Intelligence \nCSCI-P 556: Applied Machine Learning \nCSCI-P 565: Software Engineering I\nCSCI-B 565: Data Mining\nDSCI-D 532: Applied Database Technologies\nCSCI-P 538: Computer Networks\nCSCI-B 544: Security for Networked Systems\nENGR-E 516: Engineering Cloud Computing\nCSCI-B 657: Computer Vision",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFonK534Iq8-Q/company-logo_400_400/0/1631332394799?e=1723680000&v=beta&t=XSyD9MvIUAXFDkJgf8GfZ01AWFdrRUR12btJfmC_wgU",
+            "grade": "4.0/4.0",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "University of Mumbai",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15093732/",
+            "school_facebook_profile_url": null,
+            "description": "Coursework:\n\nData Structures and Algorithms, Analysis of Algorithms, Object Oriented Principles, Operating Systems, Theory of Computing, Business Communication and Ethics, Natural Language Processing, Artificial Intelligence, Soft Computing, Cryptography and System Security, Android Development, Open Source Technologies, Machine Learning",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGsu_DimiqUow/company-logo_400_400/0/1631357817785?e=1723680000&v=beta&t=DtHOAIcpaOxic41cpGCPI48fEggWSYhC5N2exwl2hbI",
+            "grade": "8.25/10.0",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Applied Algorithms",
+            "number": "CSCI-B 505"
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Basic Data Processing and Visualization",
+            "license_number": "AB2YEEA8E4LE",
+            "display_source": "www.coursera.org",
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/AB2YEEA8E4LE"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": " Building Recommender Systems with Machine Learning and AI",
+            "license_number": "UC-c2cb6aae-68ce-4595-8576-3ebf14cd370f",
+            "display_source": "ude.my",
+            "authority": "Udemy",
+            "url": "http://ude.my/UC-c2cb6aae-68ce-4595-8576-3ebf14cd370f"
+        }
+    ],
+    "connections": 1542,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/mohit-kundu-cs?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2yqLkBZffUyTTJO_QqtCkJwaIYEZ5mfL4",
+            "name": "Mohit Kundu",
+            "summary": "Seeking Full-Time Data Science and Machine Learning Opportunities starting May '24 | Research Assistant at IU",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jash-shah-56730a150?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACRaap8BoanluJemYBgI-7WsRFJTRjjbhII",
+            "name": "Jash Shah",
+            "summary": "Actively looking for Full Time opportunities starting 2024 | Machine Learning Engineer at Indiana University | Data Engineer Intern at Castleton Commodities | MS DS student at IUB | Ex-Senior Data Engineer at Quantiphi",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nakulhavaldar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC4TRhsBYmUOpt7BkIl6ioShWcMb6HIiWZs",
+            "name": "Nakul Havaldar",
+            "summary": "Graduate Research Assistant in Natural Language Processing | Ex - Abbvie Data Science | IIT Bombay Machine Learning| Talks on : LLMs, Causal Inference & Predictive Analytics.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nihaar-nandedkar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACGFRqgB6123V422FKveatYxh86C84h0tNE",
+            "name": "Nihaar Nandedkar",
+            "summary": "Seeking Full Time DS/MLE Roles Starting June 2024 | MS Data Science @ IU Bloomington",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aarushislathia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACd_vzYBx5ZAeNLHGtYqt6mz3TrRifh7w2w",
+            "name": "Aarushi Slathia",
+            "summary": "Data Scientist @Project 990 | MS DS Graduate @IUB | Python | NLP | Machine Learning | Tableau",
+            "location": null
+        }
+    ],
+    "recommendations": [
+        "Pronay Ghosh\n\n\n\nHiren is one of the best project partners I've ever had. He is one of the most dedicated professionals I've ever worked with, and he is always prepared to lend a hand when needed. His experience in data science and other cross-functional roles is very impressive, and it has aided me in developing more efficient solutions for the projects we've collaborated on. His contribution is noteworthy on the side, and I enthusiastically recommend Hiren and would welcome the opportunity to work with him again."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHX-GY93J88ug/group-logo_image-shrink_48x48/0/1525123465886?e=1716260400&v=beta&t=chZBE0VHiyu1zvYz7MUEQ1A2cWv-STBfRYq2Z5Muk5g",
+            "name": "React Developers - ReactJS & React Native Professional Development Mastermind",
+            "url": "https://www.linkedin.com/groups/6519652"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFK5LmvZWWTGg/group-logo_image-shrink_400x400/0/1630999696851?e=1716260400&v=beta&t=1yD2dZjY7-pW0uCTmPltTgu9_uxzyz5MrcaxdONGB-k",
+            "name": "JavaScript",
+            "url": "https://www.linkedin.com/groups/121615"
+        }
+    ],
+    "skills": [
+        "Agile Methodologies",
+        "Scrum",
+        "Cluster Analysis",
+        "Machine Learning Algorithms",
+        "Data Mining",
+        "Recommender Systems",
+        "Software Development",
+        "Algorithms",
+        "Artificial Intelligence (AI)",
+        "Data Analytics",
+        "JavaScript",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "Analytical Skills",
+        "Statistical Data Analysis",
+        "Communication",
+        "Databases",
+        "Statistical Modeling",
+        "NLTK",
+        "Steamlit",
+        "Django",
+        "Flask",
+        "R (Programming Language)",
+        "MongoDB",
+        "Neo4j",
+        "PostgreSQL",
+        "Exploratory Data Analysis",
+        "Data Storytelling",
+        "Statistical Programming",
+        "Logistic Regression",
+        "Data Science",
+        "General Linear Models",
+        "Data Visualization",
+        "Datasets",
+        "Computer Science",
+        "Data Analysis",
+        "Python (Programming Language)",
+        "Machine Learning",
+        "C++",
+        "Data Structures",
+        "Web Development",
+        "C (Programming Language)",
+        "Java",
+        "PHP",
+        "MySQL",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "SQL",
+        "Artificial Neural Networks",
+        "Convolutional Neural Networks (CNN)",
+        "Reinforcement Learning"
+    ],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
